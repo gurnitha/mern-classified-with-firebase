@@ -46,3 +46,17 @@ Membuat aplikasi classified menggunakan MERN dan Firebase
        Aktivitas:
 
        > npm install firebase react-router-dom moment react-moment react-icons 
+
+
+#### 1.4 Project settings in firebase and copy the settings
+
+       Aktivitas:
+
+       1. Membuat project settings di firebase
+
+       2. Copy project settings dan buat file src/firebaseConfig.js
+
+       3. Paste the code di src/firebaseConfig.js
+
+       modified:   README.md
+       modified:   src/firebaseConfig.js
