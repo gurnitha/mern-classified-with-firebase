@@ -60,3 +60,16 @@ Membuat aplikasi classified menggunakan MERN dan Firebase
 
        modified:   README.md
        modified:   src/firebaseConfig.js
+
+
+#### 1.5 Membuat .env file dan konfigurasi database
+
+       Aktivitas:
+
+       1. Membuat .env dan .env-example file
+       2. Mengisi konfigurasi pada .env dan firebaseConfig.js
+       3. Testing :)
+
+        new file:   .env-example
+        modified:   .gitignore
+        modified:   src/firebaseConfig.js

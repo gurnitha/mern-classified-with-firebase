@@ -1,6 +1,7 @@
 # ing
 _docs
 node_modules
+.env
 
 # Logs
 logs
