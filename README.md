@@ -26,6 +26,23 @@ Membuat aplikasi classified menggunakan MERN dan Firebase
         new file:   src/index.js
 
 
-#### 1.2 Connecting with firebase
+#### 1.2 Configuring db with firebase
 
- 
+       Aktivitas:
+
+       1. Signup dan login
+       console.firebase.google.com
+       my-credentials:
+       email: ........63@gmail.com 
+       password: ........
+       2. Create:
+       - Authentication
+       - Firestore database
+       - Storage 
+
+
+#### 1.3 Instal modules
+
+       Aktivitas:
+
+       > npm install firebase react-router-dom moment react-moment react-icons 
