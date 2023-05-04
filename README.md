@@ -137,4 +137,19 @@ Membuat aplikasi classified menggunakan MERN dan Firebase
         modified:   src/firebaseConfig.js
 
 
+#### 2.8 Managing registration form input and register a new user
+
+        modified:   README.md
+        modified:   src/pages/auth/Register.js
+
+        NOTE:
+
+        Successfully registered a new user
+
+        NEXT: 
+
+        Login and logoout
+
+
+
 
