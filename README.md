@@ -73,3 +73,13 @@ Membuat aplikasi classified menggunakan MERN dan Firebase
         new file:   .env-example
         modified:   .gitignore
         modified:   src/firebaseConfig.js
+
+
+#### 1.6 Add bootstrap cdn css and cdn js
+
+       Aktivitas:
+
+       1. Add bootstrap cdn css and cdn js
+
+       modified:   README.md
+       modified:   public/index.html
