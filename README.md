@@ -24,3 +24,8 @@ Membuat aplikasi classified menggunakan MERN dan Firebase
         new file:   src/firebaseConfig.js
         new file:   src/index.css
         new file:   src/index.js
+
+
+#### 1.2 Connecting with firebase
+
+ 
