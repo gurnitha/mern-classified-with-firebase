@@ -83,3 +83,8 @@ Membuat aplikasi classified menggunakan MERN dan Firebase
 
        modified:   README.md
        modified:   public/index.html
+
+
+## 2. Authentication 
+
+       modified:   README.md
