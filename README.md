@@ -114,3 +114,10 @@ Membuat aplikasi classified menggunakan MERN dan Firebase
         modified:   README.md
         modified:   src/App.js
         new file:   src/pages/auth/Register.js
+
+
+#### 2.5 Link the Home and Register pages
+
+        modified:   README.md
+        modified:   src/App.js
+        modified:   src/components/Navbar.js
