@@ -94,3 +94,9 @@ Membuat aplikasi classified menggunakan MERN dan Firebase
 
         modified:   README.md
         new file:   src/components/Navbar.js
+
+
+#### 2.2 Modified Navbar.js and add it to app.js
+
+        modified:   src/App.js
+        modified:   src/components/Navbar.js
