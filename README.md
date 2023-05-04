@@ -121,3 +121,11 @@ Membuat aplikasi classified menggunakan MERN dan Firebase
         modified:   README.md
         modified:   src/App.js
         modified:   src/components/Navbar.js
+
+
+#### 2.6 Add form to Register page and modified Navbar
+
+        modified:   README.md
+        modified:   src/App.css
+        modified:   src/components/Navbar.js
+        modified:   src/pages/auth/Register.js
