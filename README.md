@@ -129,3 +129,12 @@ Membuat aplikasi classified menggunakan MERN dan Firebase
         modified:   src/App.css
         modified:   src/components/Navbar.js
         modified:   src/pages/auth/Register.js
+
+
+#### 2.7 Configuring firbase functions to access the db
+
+        modified:   README.md
+        modified:   src/firebaseConfig.js
+
+
+
